@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Campurangaje</string>
+    <string name="lbl_Following_count">28</string>
+    <string name="lbl_follower_count">28</string>
+    <string name="lbl_post_count">28</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="profile_nama">Muhammad Amrin Mukhodas</string>
+    <string name="profile_bio_2">Politeknik Negeri Ketapang</string>
+    <string name="profile_bio_1">Informatics Engineering</string>
+    <string name="profile_btn_follow">Follow</string>
+    <string name="Profile_message">Send Message</string>
+    <string name="profile_more">V</string>
+</resources>
