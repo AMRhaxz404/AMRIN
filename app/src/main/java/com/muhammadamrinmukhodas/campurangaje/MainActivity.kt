@@ -37,5 +37,8 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("sms_body", "Hello World !")
             startActivity(intent)
         }
+        btn_intent_result.setOnClickListener {
+            val intent = Intent()
+        }
     }
 }
